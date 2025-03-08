@@ -8,7 +8,7 @@ public class TC1 {
 	@Test
 	public void test() {
 		
-		System.out.println("Test 1");
+		System.out.println("Hello World");
 	}
 
 }
